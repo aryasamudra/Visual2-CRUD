@@ -199,7 +199,6 @@ object Form1: TForm1
   end
   object ZQuery1: TZQuery
     Connection = ZConnection1
-    Active = True
     SQL.Strings = (
       'select * from kustomer')
     Params = <>
